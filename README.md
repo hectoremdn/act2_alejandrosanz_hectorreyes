@@ -2,7 +2,11 @@
 
 Esta aplicación recrea la interfaz visual de un reproductor de música móvil diseñado para presentar el álbum *Más* de **Alejandro Sanz**. El proyecto traslada un diseño estático a una aplicación web real dividida en piezas independientes y reutilizables, respetando la distribución, los colores y la jerarquía visual del diseño original.
 
-![Captura del resultado final](./public/preview.png)
+| Artista 1 | Artista 2 | Artista 3 |
+| :---: | :---: | :---: |
+| <img width="420" alt="cap1" src="https://github.com/user-attachments/assets/c1ff8306-3b0e-4c1d-b993-f9043871c67c" /> | <img width="420" alt="cap2" src="https://github.com/user-attachments/assets/9a0b0b5d-7844-47bb-a42b-d11e5785adb5" /> | <img width="420" alt="cap3" src="https://github.com/user-attachments/assets/4128d0cb-410b-4934-bd71-6e92b0126dff" /> |
+
+
 
 ---
 
