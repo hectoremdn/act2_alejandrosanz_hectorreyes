@@ -36,4 +36,4 @@ export const cantantes = {
 };
 
 // CAMBIA ESTA LÍNEA PARA CAMBIAR DE ARTISTA (cantantes.alejandro / cantantes.pablo / cantantes.badbunny / cantantes.theweekend)
-export const cantanteActivo = cantantes.alejandro;
+export const cantanteActivo = cantantes.theweeknd;

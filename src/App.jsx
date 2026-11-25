@@ -5,7 +5,7 @@ import TopProgressBar from './components/TopProgressBar';
 import ArtistSection from './components/ArtistSection';
 import PlayerControls from './components/PlayerControls';
 import CheckboxGroup from './components/CheckboxGroup';
-import SearchBar from './components/SearchBar';
+import SearchBar from './components/Searchbar';
 import EmojiCarousel from './components/EmojiCarousel';
 import BottomNav from './components/BottomNav';
 
